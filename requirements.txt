@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-image
+pydicom
+tqdm
+pylidc
+tensorflow 2.10
+matplotlib
+scikit-learn
