@@ -1,16 +1,13 @@
-# Python cache
 __pycache__/
 *.pyc
 .venv/
-
-# Data and model outputs
 data/
 *.npy
 *.keras
-
-# Generated figures
 *.png
-
-# OS files
 Thumbs.db
 .DS_Store
+.vs/
+src/.vs/
+*.suo
+*.sqlite
